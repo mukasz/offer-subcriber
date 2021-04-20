@@ -1,4 +1,4 @@
-package offer.fetcher.olx;
+package offer.subscriber.fetcher.olx;
 
 import lombok.AllArgsConstructor;
 import lombok.ToString;

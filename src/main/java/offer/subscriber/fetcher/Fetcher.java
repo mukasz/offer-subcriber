@@ -1,6 +1,6 @@
-package offer.fetcher;
+package offer.subscriber.fetcher;
 
-import offer.fetcher.olx.OlxOffer;
+import offer.subscriber.fetcher.olx.OlxOffer;
 
 import java.io.IOException;
 import java.util.Collection;

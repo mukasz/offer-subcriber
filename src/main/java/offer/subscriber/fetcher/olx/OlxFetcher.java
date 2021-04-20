@@ -1,6 +1,6 @@
-package offer.fetcher.olx;
+package offer.subscriber.fetcher.olx;
 
-import offer.fetcher.Fetcher;
+import offer.subscriber.fetcher.Fetcher;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
