@@ -1,4 +1,3 @@
 package mapper;
 
-public class Dummy {
-}
+c
